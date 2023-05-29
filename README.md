@@ -6,12 +6,13 @@
     </head>
     <body style="font-family: 'Wix Madefor Text', sans-serif; color: #0e399c;">
 <h1 align="center">Hi 👋 This is Chetana M Jyothi</h1>
-<h2 align="center">A Trained Front End Developer</h2>
+     <div align="center"> <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Trained+Frontend+Developer" alt="Typing SVG" /></a></div>
+
 <h4 align="center">I have a strong interest in web development and am dedicated to honing my skills and staying updated with the latest trends and technologies</h4>
 <p align="center">As an M.Tech graduate in Computer Science, I possess strong problem-solving skills and a keen interest in front-end development. I am highly motivated to leverage my technical expertise and contribute to the field by creating compelling user experiences and utilizing the latest technologies.<p>
 <div style="display: inline;">
 <div style="display: inline-block; vertical-align: middle;">
-<h3>About Me:</h3>
+<h3>👦About Me:</h3>
 <p>👨‍💻 Attended coding bootcamp from Newton School</p>
 <p>👨‍💻 Currently enhancing my skills by working on projects</p>
 <p>👨‍💻 Looking for Full Time Role as Developer</p>
@@ -22,8 +23,6 @@
 <div>
     <div style="display:inline;">
 <h3 style="display:inline-block; vertical-align: middle;">My Skills:</h3>
-
-    </div>
 <img src="https://img.icons8.com/?size=60&id=20909&format=png" alt="html" />
 <img src="https://img.icons8.com/?size=60&id=7gdY5qNXaKC0&format=png" alt="css"/>
 <img src="https://img.icons8.com/?size=60&id=PXTY4q2Sq2lG&format=png" alt="css"/>
@@ -35,7 +34,7 @@
 <img src="https://img.icons8.com/?size=60&id=20906&format=png" alt="css"/>
 </div>
 <div>
-    <h3>Reach Out To Me Through:</h3>
+    <h3>🤝Connect With Me Through:</h3>
     <img src="https://img.icons8.com/?size=60&id=13930&format=png" alt="linked in"/>
    <div> <a href="https://www.linkedin.com/in/chetana-m-jyothi/" style="text-decoration: none; color: white; font-weight: bold; border:1px solid black; border-radius: 20px; padding: 5px 20px; background-color: #0077B5;">Linked in</a></div>
     
