@@ -33,9 +33,9 @@
 </div>
 <div>
     <h3>Reach Out To Me Through</h3>
+    <img src="https://img.icons8.com/?size=60&id=13930&format=png" alt="linked in"/>
     <a href="https://www.linkedin.com/in/chetana-m-jyothi/" style="text-decoration: none; color: white; font-weight: bold; border:1px solid black; border-radius: 20px; padding: 5px 20px; background-color: #0077B5;">Linked in</a>
     
-
 </div>
 <div>
    <h3> My Projects</h3>
