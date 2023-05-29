@@ -41,12 +41,12 @@
 </div>
 <div>
    <h3> My Projects</h3>
-   <div style="display: inline; padding: 20px 30px; background-color: #cb7a92; color: white;" ><h4 style="display: inline-block;">Twitter Clone</h4><a href="https://search-isro-centres.netlify.app/" style="font-size: 15px; display: inline-block;text-decoration: none; color: white; font-weight: bold; border:1px solid black; padding: 5px 20px; background-color: #7d032a; margin-left: 10px;">Hosted Link</a></div>
+   <div style="display: inline; padding: 20px 30px; background-color: #cb7a92; color: white;" ><h4 style="display: inline-block;">Twitter Clone [ React ]</h4><a href="https://search-isro-centres.netlify.app/" style="font-size: 15px; display: inline-block;text-decoration: none; color: white; font-weight: bold; border:1px solid black; padding: 5px 20px; background-color: #7d032a; margin-left: 10px;">Hosted Link</a></div>
    <br></br>
-   <div style="display: inline; padding: 20px 30px; background-color: #cb7a92; color: white;" ><h4 style="display: inline-block;">Personal Portfolio</h4><a href="https://chetana-m-j-portfolio.netlify.app/" style="font-size: 15px; display: inline-block;text-decoration: none; color: white; font-weight: bold; border:1px solid black; padding: 5px 20px; background-color: #7d032a; margin-left: 10px;">Hosted Link</a></div>
+   <div style="display: inline; padding: 20px 30px; background-color: #cb7a92; color: white;" ><h4 style="display: inline-block;">Personal Portfolio [ React ]</h4><a href="https://chetana-m-j-portfolio.netlify.app/" style="font-size: 15px; display: inline-block;text-decoration: none; color: white; font-weight: bold; border:1px solid black; padding: 5px 20px; background-color: #7d032a; margin-left: 10px;">Hosted Link</a></div>
    <br></br>
    
-   <div style="display: inline; padding: 20px 30px; background-color: #cb7a92; color: white;" ><h4 style="display: inline-block;">ISRO Search Centers</h4><a href="https://c-twitter-clone.netlify.app/" style="font-size: 15px; display: inline-block;text-decoration: none; color: white; font-weight: bold; border:1px solid black; padding: 5px 20px; background-color: #7d032a; margin-left: 10px;">Hosted Link</a></div>
+   <div style="display: inline; padding: 20px 30px; background-color: #cb7a92; color: white;" ><h4 style="display: inline-block;">ISRO Search Centers [ Javascript ]</h4><a href="https://c-twitter-clone.netlify.app/" style="font-size: 15px; display: inline-block;text-decoration: none; color: white; font-weight: bold; border:1px solid black; padding: 5px 20px; background-color: #7d032a; margin-left: 10px;">Hosted Link</a></div>
 
 </div>
 </body>
