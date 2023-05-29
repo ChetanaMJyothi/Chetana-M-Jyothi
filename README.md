@@ -12,15 +12,15 @@
 <div style="display: inline;">
 <div style="display: inline-block; vertical-align: middle;">
 <h3>About Me:</h3>
-<p>Attended coding bootcamp from Newton School</p>
-<p>Currently enhancing my skills by working on projects</p>
-<p>Looking for Full Time Role as Developer</p>
-<p>I have 2 years of experience as a software engineer, working for WIPRO  </p>
+<p>👨‍💻 Attended coding bootcamp from Newton School</p>
+<p>👨‍💻 Currently enhancing my skills by working on projects</p>
+<p>👨‍💻 Looking for Full Time Role as Developer</p>
+<p>👨‍💻 I have 2 years of experience as a software engineer, working for WIPRO  </p>
 </div>
 <img style="display: inline-block; vertical-align: middle; height:220px"  align="right" src="https://webenezer.com.br/wp-content/uploads/2019/02/laptop-code.png-300x300.png" alt="laptop Image"  />
 </div>
 <div>
-<h3>My Skills</h3>
+<h3>My Skills</h3><img src="https://camo.githubusercontent.com/b429fd0344f4072885b19923f824d4616893261e9d7cc2afb62f85224caca070/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a32704f476547594b65327843434b7766692f67697068792e676966"/>
 <img src="https://img.icons8.com/?size=60&id=20909&format=png" alt="html" />
 <img src="https://img.icons8.com/?size=60&id=7gdY5qNXaKC0&format=png" alt="css"/>
 <img src="https://img.icons8.com/?size=60&id=PXTY4q2Sq2lG&format=png" alt="css"/>
