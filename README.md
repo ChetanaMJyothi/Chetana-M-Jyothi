@@ -21,8 +21,8 @@
 </div>
 <div>
     <div style="display:inline;">
-<h3 style="display:inline-block;">My Skills</h3>
-<img style="display:inline-block;" src="https://camo.githubusercontent.com/b429fd0344f4072885b19923f824d4616893261e9d7cc2afb62f85224caca070/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a32704f476547594b65327843434b7766692f67697068792e676966" alt="Laptop" height=50px width=50px />
+<h3 style="display:inline-block; vertical-align: middle;">My Skills</h3>
+<img style="display:inline-block; vertical-align: middle;" src="https://camo.githubusercontent.com/b429fd0344f4072885b19923f824d4616893261e9d7cc2afb62f85224caca070/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a32704f476547594b65327843434b7766692f67697068792e676966" alt="Laptop" height=50px width=50px />
     </div>
 <img src="https://img.icons8.com/?size=60&id=20909&format=png" alt="html" />
 <img src="https://img.icons8.com/?size=60&id=7gdY5qNXaKC0&format=png" alt="css"/>
