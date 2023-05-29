@@ -21,8 +21,8 @@
 </div>
 <div>
     <div style="display:inline;">
-<h3 style="display:inline-block; vertical-align: middle;">My Skills</h3>
-<img style="display:inline-block; vertical-align: middle;" src="https://camo.githubusercontent.com/b429fd0344f4072885b19923f824d4616893261e9d7cc2afb62f85224caca070/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a32704f476547594b65327843434b7766692f67697068792e676966" alt="Laptop" height=50px width=50px />
+<h3 style="display:inline-block; vertical-align: middle;">My Skills:</h3>
+
     </div>
 <img src="https://img.icons8.com/?size=60&id=20909&format=png" alt="html" />
 <img src="https://img.icons8.com/?size=60&id=7gdY5qNXaKC0&format=png" alt="css"/>
@@ -35,9 +35,9 @@
 <img src="https://img.icons8.com/?size=60&id=20906&format=png" alt="css"/>
 </div>
 <div>
-    <h3>Reach Out To Me Through</h3>
+    <h3>Reach Out To Me Through:</h3>
     <img src="https://img.icons8.com/?size=60&id=13930&format=png" alt="linked in"/>
-    <a href="https://www.linkedin.com/in/chetana-m-jyothi/" style="text-decoration: none; color: white; font-weight: bold; border:1px solid black; border-radius: 20px; padding: 5px 20px; background-color: #0077B5;">Linked in</a>
+   <div> <a href="https://www.linkedin.com/in/chetana-m-jyothi/" style="text-decoration: none; color: white; font-weight: bold; border:1px solid black; border-radius: 20px; padding: 5px 20px; background-color: #0077B5;">Linked in</a></div>
     
 </div>
 <div>
